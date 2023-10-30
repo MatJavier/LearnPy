@@ -1,3 +1,10 @@
+
+
+
 pokedex = ["Rayquaza", "Gengar", "Entei", "Suicune", "Pikachu", "Pichu", "Raychu", "Toggepy"]
 
-pokedex[-1]
+pokedex[0]= "Deoxis"
+pokedex.append("Rayquaza GIGAMAX")
+
+print("Pokedex actualizada")
+pokedex
